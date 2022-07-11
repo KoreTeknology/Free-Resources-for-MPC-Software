@@ -17,35 +17,35 @@ Each preset is composed from several parameters and values. We must note that ba
 <th align="left", width="130">Parameters</th>
 <th align="left", width="650">Description</th>
 <th align="center", width="180">Range</th>
-<th align="center", width="90">Midi</th>
+<th align="center", width="90">ID</th>
 </tr>
 <tr>
  <td  valign="top"><b>Tune</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Hold</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Decay</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Sweep</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Sweep-Decay</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Sweep-Depth</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
  <td  valign="top"><b>Harm</b></td>
- <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.000 to 0.000</td><td align="center"  valign="top">000</td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <table>
 
@@ -111,7 +111,9 @@ Each preset is composed from several parameters and values. We must note that ba
 ## File structure (.adsm file type)
   
 ```diff 
-ParamOffest 1
+ParamOffest 1 (optional)
 Macro  0  Param  257  0.01736  0.9556  0  Def  0.0805  Tune
 Macro  1  Param  255  0.00     0.50    0  Def  0.50    Hold
+...
+Pitch  257 (optional)
 ```
