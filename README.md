@@ -57,15 +57,10 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 - **Amp Sim Plugin References:** [Presets List](Plugins%20API%20Documentation/Fx-API-Amp%20Sim%20Presets.md) | [Skins Structure]()
 - **Channel Strip Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
 
-### General UI
+### Main Application
 
 - **Mixer References:** [Presets List]() | [Skins Structure]()
 - **Sequencer References:** [Presets List]() | [Skins Structure]()
-
-### Project Templates
-
-- **Startup:** [Templates List]()
-- **Fx Racks:** [Templates List]()
 
 ---
 
