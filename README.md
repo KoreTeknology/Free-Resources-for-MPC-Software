@@ -26,15 +26,104 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
+## API Directory (Work in Progress)
+
+### Instruments Plugins
+
+- **Drumsynth Plugins References:** [Drums Models Definition](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
+    - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md)
+    - **Drumsynth Kick Plugin References:** [Kick Models]() | [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Snare Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Hihat Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Clap Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Percussion Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Tom Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Crash Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Ride Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md)
+- **Hype Plugin References:**[Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Hype%20GUI.md)
+- **Mellotron Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Odyssey Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Electric Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Tubesynth Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Bassline Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+
+### Fx Plugins
+
+- **Amp Sim Plugin References:** [Presets List](Plugins%20API%20Documentation/Fx-API-Amp%20Sim%20Presets.md) | [Skins Structure]()
+- **Channel Strip Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+
+### General UI
+
+- **Mixer References:** [Presets List]() | [Skins Structure]()
+- **Sequencer References:** [Presets List]() | [Skins Structure]()
+
+### Project Templates
+
+- **Startup:** [Templates List]()
+- **Fx Racks:** [Templates List]()
+
+---
+
+## Tutorials
+
+**How to install**, please, be sure to read the [Tutorials section](TUTORIALS.md)
+
+> Each plateform has a dedicated section and procedure to add custom contents, don´t mess with this or it will be unusable!
+
+
+---
+
+## Acknowledgments
+
+* This work is dedicated to all Akai MPC users ;)
+* **I do  this work during my free time, so please, be patient for the release of new themes** :)
+* These files are intended to work with the latest MPC Software Release (2.11 and above)
+* These packages are supposed to work well in both  the **Standalone** & the **Software** versions
+
+---
+
+## Author(s)
+
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
+> Add your name here, and contribute to the project !
+
+Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
+Collaboration projects are always welcome!</p>
+
+<p align="justify"><i><sub>I started to develop user interfaces for audio products in the years 2001, for physical machines as well as for virtual machines. I have been a programmer and musician since very young and all my energy is professionally oriented to satisfy users in the handling of their work or entertainment tools. I participate in several software research and development groups of which this page is a recent production section. I am a fan of the products distributed by the company InMusicBrands which distributes among other things the Akai brand all over the world.<br>
+In 2020, I acquired the MPC software 2 software, an overpowering DAW that uses the logic of the sampler sequencer of the same name. Since that time, I have modified most of the theme files supplied with the software, in order to personalize my instruments and effects.
+Since the release of version 2.10, new instruments have been added to the existing list and the instruments really deserve special attention, mainly for the very good quality audio engines, the functions offered in quantity and ... ergonomics. which was not really adapted to users and their requirements. I must say that after analyzing the code of the themes and the images provided, I understand that the design of the plugins was not a priority for the development group, it is basic, poorly organized and the visuals are poor, but it is simply my professional opinion in this area. Overall, I appreciate the design that Akai provides in its consumer products.
+So I decided to distribute and update my themes for the new instruments as well as for some elements of the main software interface. They are therefore offered free of charge to all, in exchange for accepting the license. Be sure to read it before clicking the download button, as it commits you to preserving the content and making it free for everyone.</sub>
+
+Enjoy!<br>
+<b>Uriel</b>
+</i></p>
+
+---
+
+## License
+
+This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] - 2021[^note]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+|[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]|||
+| ------------------------------------------------- | --------- | :--------: |
+| License and copyright notice | Required  | &#10069; |
+| Private Use                  | Permitted | &#10004; |
+| Commercial Use               | Forbidden | &#10006; |
+| Distribution                 | Permitted | &#10004; |
+| Modification                 | Permitted | &#10004; |
+| Hold Liable                  | Forbidden | &#10006; |
 
 
 
 
 
 
-  
-
-footnote[^note].
 
 [^1]: details of 1
 [^2]: details of 2.  
