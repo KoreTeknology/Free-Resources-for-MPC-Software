@@ -20,6 +20,10 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 This project is all about distributing new theme packages that contains a set of **graphics** files and **XML** files which allows a **redesign of the plugins** supplied with the MPC software of the famous **Akai** brand. Each plugins is built from a base, the background and elements such as faders, knobs, and other controllers. The XML file contains all the information about the placement of these elements on the surface of the user interface. You will find in this project several files and documents. From there you can **download** the files for your plugin OR/AND **learn** from the tutorials how to do your own theme.
 
+<p align="center">
+  <a href="DOWNLOADS.md"><img src="images/button_downloads_resources_mpc.jpg" /></a>
+</p>
+
 ```diff 
 By Downloading these files packages, you are accepting the terms of the CC BY NC SA 4.0 License
 ```
