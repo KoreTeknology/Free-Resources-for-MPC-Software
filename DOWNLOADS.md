@@ -1,8 +1,58 @@
-<h1 align="center">Downloads</h1>
+<h1 align="center">Free MPC Downloads</h1>
 
 ---
 
-<h2 align="center">CUSTOM AIR PLUGINS THEMES RELEASES  ( Full Skin Packages)</h2>
+<h2 align="center">USERS PRESETS PACKAGES</h2>
+
+<table>
+<tr>
+<th align="left", width="240">Pack</th>
+<th align="center", width="70">Type</th>
+<th align="center", width="80">OS</th>
+<th align="center", width="90">Release</th>
+<th align="left", width="120">Author</th>
+<th align="left", width="350">Description</th>
+<th align="center", width="100">Get it!</th>
+</tr>
+<tr>
+ <td  valign="top"><a href="">Techno Drumsynth Presets</td>
+ <td align="left"  valign="top">XPL</td>
+ <td align="left"  valign="top">All</td>
+ <td align="left"  valign="top">07/2022</td>
+ <td align="left"  valign="top">Uriel D.</td>
+ <td align="left"  valign="top">A Techno set of Drumsynth Multi Presets</td>
+ <td align="left"  valign="top"><a href="#">Download</a></td>
+</tr>
+<table>
+ 
+---
+ 
+<h2 align="center">STARTUP TEMPLATES PACKAGES</h2>
+ 
+<table>
+<tr>
+<th align="left", width="240">Pack</th>
+<th align="center", width="70">Type</th>
+<th align="center", width="80">OS</th>
+<th align="center", width="90">Release</th>
+<th align="left", width="120">Author</th>
+<th align="left", width="350">Description</th>
+<th align="center", width="100">Get it!</th>
+</tr>
+<tr>
+ <td  valign="top"><a href="">Mastering Templates</td>
+ <td align="left"  valign="top">XPJ</td>
+ <td align="left"  valign="top">All</td>
+ <td align="left"  valign="top">07/2022</td>
+ <td align="left"  valign="top">Uriel D.</td>
+ <td align="left"  valign="top">A set of dedicated mastering setups</td>
+ <td align="left"  valign="top"><a href="#">Download</a></td>
+</tr>
+<table>
+
+---
+
+<h2 align="center">CUSTOM AIR PLUGINS SKINS PACKAGES</h2>
 
 <table>
 <tr>
@@ -45,7 +95,7 @@
 
 ---
  
-<h2 align="center">EXTRA MAIN UI THEMES RELEASES  (Skin Elements Packages) </h2>
+<h2 align="center">CUSTOM APPLICATION SKINS PACKAGES</h2>
 
 <table>
 <tr>
@@ -67,3 +117,6 @@
  <td align="left"  valign="top"><a href="Application%20Custom%20Skins/MPC_Mixer_Fader">Download</a></td>
 </tr>
 <table>
+
+---
+ 
