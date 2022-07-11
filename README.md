@@ -71,7 +71,8 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ## Tutorials
 
-**How to install**, please, be sure to read the [Tutorials section](TUTORIALS.md)
+- **How to install**, please, be sure to read the [Install Tutorials section](TUTORIALS.md)
+- **How to create**, please, be sure to read the [Art Tutorials section](TUTORIALS.md)
 
 > Each plateform has a dedicated section and procedure to add custom contents, don´t mess with this or it will be unusable!
 
