@@ -30,3 +30,9 @@
 
 ... TODO
 
+---
+
+## :grey_question: How to design your own plugins skins
+
+...TODO
+
