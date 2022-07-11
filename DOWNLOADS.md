@@ -64,6 +64,6 @@
  <td align="left"  valign="top">07/2022</td>
  <td align="left"  valign="top">Uriel D.</td>
  <td align="left"  valign="top">A new Pro mixer fader.</td>
- <td align="left"  valign="top"><a href="https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/9295be3cb0f94a09fea3b45d4707953afb137931/Releases/MPC%20Mixer/Custom_Mixer_Fader.zip">Download</a></td>
+ <td align="left"  valign="top"><a href="Application%20Custom%20Skins/MPC_Mixer_Fader">Download</a></td>
 </tr>
 <table>
