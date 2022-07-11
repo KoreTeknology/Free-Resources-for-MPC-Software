@@ -14,9 +14,9 @@ Each preset is composed from several parameters and values. We must note that ba
 
 <table>
 <tr>
-<th align="left", width="130">Parameters</th>
-<th align="left", width="650">Description</th>
-<th align="center", width="180">Range</th>
+<th align="left", width="160">Parameters</th>
+<th align="left", width="620">Description</th>
+<th align="center", width="180">Value Range</th>
 <th align="center", width="90">ID</th>
 </tr>
 <tr>
@@ -72,6 +72,10 @@ Each preset is composed from several parameters and values. We must note that ba
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <tr>
+ <td  valign="top"><b>Beat-Mid</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
  <td  valign="top"><b>Hit</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
@@ -117,6 +121,18 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <tr>
  <td  valign="top"><b>HH-Tune</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Att-Noise</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Att-Time</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Att-Dirt</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
 <table>
