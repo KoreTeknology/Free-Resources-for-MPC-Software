@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Code-JSON-brightgreen.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <br><img src="https://img.shields.io/badge/AIR-Plugins-green.svg" /> <img src="https://img.shields.io/badge/AKAI-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC Software v2-yellow.svg" />
 </p>
+
+<img src="Repository%20Images/header_resources_mpc.jpg" />
+
 <h2 align="center">!!! Updated for API Release 2.11.2 and above !!!</h2>
 <p align="center">
 <b>This repository is maintained by <u>Uriel Deveaud @2020-2022</b><br> Kore Teknology Network</u> [Quadraphonics]
@@ -72,7 +75,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 ## Tutorials
 
 - **How to install**, please, be sure to read the [Install Tutorials section](TUTORIALS.md)
-- **How to create**, please, be sure to read the [Art Tutorials section](TUTORIALS.md)
+- **How to create**, please, be sure to read the [Art Tutorials section](TUTORIALS.md#grey_question-how-to-design-your-own-plugins-skins.md)
 
 > Each plateform has a dedicated section and procedure to add custom contents, don´t mess with this or it will be unusable!
 
