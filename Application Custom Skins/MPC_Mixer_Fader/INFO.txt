@@ -1,0 +1,18 @@
+HOW TO INSTALL?
+---------------
+
+Search for the MPC/Resources/ACVS/graphics/Mixers/channelstrip/ folder in your computer.
+Drag-n-drop the files included into this package and replace the original content*
+That´s it, enjoy!
+
+*Don´t forget to make a copy of the original files if you want to return to the basic GUI design!
+
+---
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+Author: uriel Deveaud @2021 - Kore Teknology System [Quadraphonics]
