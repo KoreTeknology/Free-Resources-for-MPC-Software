@@ -47,6 +47,78 @@ Each preset is composed from several parameters and values. We must note that ba
  <td  valign="top"><b>Harm</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
+<tr>
+ <td  valign="top"><b>Punch</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Drive</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Attack</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Body</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Beat</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Beat-Color</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Hit</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Noise</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Noise-Color</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Noise-Resonance</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Noise-Dec</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Click</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Clip</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Character</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Soft</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>Hi-Hat</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>HH-Dec</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  valign="top"><b>HH-Tune</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
 <table>
 
 <table>
