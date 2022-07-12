@@ -279,5 +279,13 @@ Pitch  257 (optional)
  <td  align="center", valign="top"><b>47</b></td><td  valign="top"><b>Reso</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
+<tr>
+ <td  align="center", valign="top"><b>48</b></td><td  valign="top"><b>HiPass</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>49</b></td><td  valign="top"><b>Metal</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
 <table>
 
