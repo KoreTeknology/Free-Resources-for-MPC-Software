@@ -27,19 +27,19 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <tr>
  <td><b>Content:</b></td>
- <td align="center">Level</td>
- <td align="center">Order</td>
- <td align="center">Type</td>
- <td align="center">Type Value</td>
+ <td align="center">Data Level</td>
+ <td align="center">Param. Order</td>
+ <td align="center">Separator /</td>
+ <td align="center">Parameter ID</td>
  <td align="center">Minimum Value</td>
  <td align="center">Maximum Value</td>
- <td align="center">?*</td>
- <td align="center">Def</td>
+ <td align="center">Null</td>
+ <td align="center">Separator /</td>
  <td align="center">Default Value</td>
- <td align="center">Name</td>
+ <td align="center">Param. Name</td>
 </tr>
 <tr>
- <td><b>Data type:</b></td>
+ <td><b>Type:</b></td>
  <td align="center">STRING</td>
  <td align="center">INTEGER</td>
  <td align="center">STRING</td>
