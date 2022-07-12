@@ -259,5 +259,25 @@ Pitch  257 (optional)
  <td  align="center", valign="top"><b>42</b></td><td  valign="top"><b>Dens</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
+<tr>
+ <td  align="center", valign="top"><b>43</b></td><td  valign="top"><b>Pitch</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>44</b></td><td  valign="top"><b>Pitch-Dec</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>45</b></td><td  valign="top"><b>Spike-Len</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>46</b></td><td  valign="top"><b>Bandpass</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>47</b></td><td  valign="top"><b>Reso</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
 <table>
 
