@@ -1,5 +1,7 @@
 <h1 align="center">Free MPC Downloads</h1>
 
+Updated 12/06/22[^note]
+
 ---
 
 <h2 align="center">USERS PRESETS PACKAGES</h2>
@@ -203,3 +205,6 @@
 
 ---
  
+[^note]:
+    Tested on 2.11.1/2.11.2.  
+    by uriel Deveaud.
