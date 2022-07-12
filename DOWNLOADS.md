@@ -55,6 +55,40 @@ Updated 12/06/22[^note]
 <table>
  
 ---
+
+<h2 align="center">FX RACKS PACKAGES</h2>
+
+<table>
+<tr>
+<th align="left", width="240">Collections</th>
+<th align="center", width="70">Type</th>
+<th align="center", width="60">OS</th>
+<th align="center", width="70">Release</th>
+<th align="left", width="120">Author</th>
+<th align="left", width="370">Description</th>
+<th align="center", width="100">Get it!</th>
+</tr>
+<tr>
+ <td  valign="top"><a href="">Advanced Synth FX Racks</td>
+ <td align="center"  valign="top">XFX</td>
+ <td align="center"  valign="top">All</td>
+ <td align="center"  valign="top">07/2022</td>
+ <td align="left"  valign="top">Uriel D.</td>
+ <td align="left"  valign="top">8 Synth Fx Racks</td>
+ <td align="center"  valign="top"><a href="#">Download</a></td>
+</tr>
+<tr>
+ <td  valign="top"><a href="">Ultimate Inserts FX Racks</td>
+ <td align="center"  valign="top">XFX</td>
+ <td align="center"  valign="top">All</td>
+ <td align="center"  valign="top">07/2022</td>
+ <td align="left"  valign="top">Uriel D.</td>
+ <td align="left"  valign="top">4 Fx Racks</td>
+ <td align="center"  valign="top"><a href="#">Download</a></td>
+</tr>
+<table>
+ 
+---
  
 <h2 align="center">STARTUP TEMPLATES PACKAGES</h2>
  
@@ -193,12 +227,12 @@ Updated 12/06/22[^note]
 <th align="center", width="100">Get it!</th>
 </tr>
 <tr>
- <td  valign="top"><a href="">Main Mixer Fader V2.0</td>
+ <td  valign="top"><a href="">Main Mixer Elements V2.0</td>
  <td align="left"  valign="top">MOD</td>
  <td align="left"  valign="top">Software</td>
  <td align="left"  valign="top">07/2022</td>
  <td align="left"  valign="top">Uriel D.</td>
- <td align="left"  valign="top">A new Pro mixer fader.</td>
+ <td align="left"  valign="top">A new skin for the mixer.</td>
  <td align="left"  valign="top"><a href="Application%20Custom%20Skins/MPC_Mixer_Fader">Download</a></td>
 </tr>
 <table>
