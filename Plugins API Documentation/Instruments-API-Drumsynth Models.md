@@ -207,5 +207,25 @@ Pitch  257 (optional)
  <td  align="center", valign="top"><b>29</b></td><td  valign="top"><b>Att-Dirt</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
+<tr>
+ <td  align="center", valign="top"><b>30</b></td><td  valign="top"><b>Spike</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>31</b></td><td  valign="top"><b>Complex</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>32</b></td><td  valign="top"><b>Balance</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>33</b></td><td  valign="top"><b>FM-Tune</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>34</b></td><td  valign="top"><b>FM-Depth</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
 <table>
 
