@@ -227,5 +227,13 @@ Pitch  257 (optional)
  <td  align="center", valign="top"><b>34</b></td><td  valign="top"><b>FM-Depth</b></td>
  <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
 </tr>
+<tr>
+ <td  align="center", valign="top"><b>35</b></td><td  valign="top"><b>Tone</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
+<tr>
+ <td  align="center", valign="top"><b>36</b></td><td  valign="top"><b>Flam</b></td>
+ <td align="left"  valign="top">desc.</td><td align="center"  valign="top">-0.999 to 0.999</td><td align="center"  valign="top">000</td>
+</tr>
 <table>
 
