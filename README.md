@@ -76,7 +76,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ## Extras
 
-- **Keyboard Shortcuts Sheet**, please, be sure to read the [Install Tutorials section](SHORTCUTS.md)
+- **Keyboard Shortcuts Sheet** [Here](SHORTCUTS.md)
 
 ---
 
