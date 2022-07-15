@@ -9,7 +9,7 @@ Updated 12/06/22[^note]
 
 <table>
 <tr>
-<th align="left", width="250">Actions</th>
+<th align="center", width="450">Actions</th>
 <th align="center", width="150">Keys</th>
 </tr>
   <tr><td  valign="top"><i>Play</i></td><td align="center"  valign="top"><kbd>SHIFT</kbd>+<kbd>SPACE</kbd></td></tr>
