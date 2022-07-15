@@ -5,11 +5,27 @@ Updated 12/06/22[^note]
 
 ---
 
+<h2>Files</h2>
+
+<table>
+<tr>
+<th align="center", width="450">User Actions</th>
+<th align="center", width="150">Keys</th>
+</tr>
+  <tr><td  valign="top"><i>New project</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>N</kbd></td></tr>
+  <tr><td  valign="top"><i>New project from template</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>N</kbd></td></tr>
+  <tr><td  valign="top"><i>Save</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>S</kbd></td></tr>
+  <tr><td  valign="top"><i>Save as...</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>S</kbd></td></tr>
+  <tr><td  valign="top"><i>Export as audio</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd></td></tr>
+</table>
+
+---
+
 <h2>Transport</h2>
 
 <table>
 <tr>
-<th align="center", width="450">Actions</th>
+<th align="center", width="450">User Actions</th>
 <th align="center", width="150">Keys</th>
 </tr>
   <tr><td  valign="top"><i>Play</i></td><td align="center"  valign="top"><kbd>SHIFT</kbd>+<kbd>SPACE</kbd></td></tr>
@@ -19,7 +35,6 @@ Updated 12/06/22[^note]
   <tr><td  valign="top"><i>Retrospective Record</i></td><td align="center"  valign="top"><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>R</kbd></td></tr>
   <tr><td  valign="top"><i>Overdub</i></td><td align="center"  valign="top"><kbd>SHIFT</kbd>+<kbd>R</kbd></td></tr>
   <tr><td  valign="top"><i>Punch In</i></td><td align="center"  valign="top"><kbd>SHIFT</kbd>+<kbd>P</kbd></td></tr>
-  <tr><td></td></tr>
   <tr><td  valign="top"><i>Rewind by Bar</i></td><td align="center"  valign="top"><kbd>,</kbd></td></tr>
   <tr><td  valign="top"><i>Forward by Bar</i></td><td align="center"  valign="top"><kbd>.</kbd></td></tr>
   <tr><td  valign="top"><i>Rewind by Event</i></td><td align="center"  valign="top"><kbd>ALT</kbd>+<kbd>,</kbd></td></tr>
