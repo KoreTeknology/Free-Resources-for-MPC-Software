@@ -10,6 +10,7 @@ During the process of creating your sequences in MPC software (works also for st
 </tr>
   <tr><td><kbd>INTRO</kbd></td><td>Open the song</td></tr>
   <tr><td><kbd>VERSE</kbd></td><td>Unique part with story telling attributs</td></tr>
+  <tr><td><kbd>BRIDGE</kbd></td><td>Variation of verse progression</td></tr>
   <tr><td><kbd>CHORUS</kbd></td><td>Repetitive part with strong accent</td></tr>
   <tr><td><kbd>BREAK</kbd></td><td>Unique part to separate 2 sections of the song</td></tr>
   <tr><td><kbd>OUTRO</kbd></td><td>End of the song</td></tr>
