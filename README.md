@@ -1,11 +1,7 @@
-<h1 align="center">Free Resources for MPC Software</h1>
-
 <p align="center">
-  for the <b>Akai Music Production Center</b> software (Standalone units, PC/MAC),<br>including API Documentation, Startup Templates, User Presets and Custom Skins
+  <b>API Documentation, Startup Templates, User Presets and Custom Skins</b>
 </p>
-
 <a href="DOWNLOADS.md"><img src="Repository%20Images/header_resources_mpc.jpg" /></a>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Code-JSON-brightgreen.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <br><img src="https://img.shields.io/badge/AIR-Plugins-green.svg" /> <img src="https://img.shields.io/badge/AKAI-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC Software v2-yellow.svg" />
 </p>
