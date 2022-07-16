@@ -33,6 +33,39 @@ During the process of creating your sequences in MPC software (works also for st
 <p align="justify">Here, we have the most 2 first sequences to produce before going further. In this situation, we will have a developped <b>music theme</b> and basic construction kit. 
   </p>
 
+<table>
+<tr>
+<th align="left", width="150">2d step</th><th align="left">
+  <kbd>BREAK 1</kbd> & 
+  <kbd>BREAK 2</kbd> ...
+</th></tr>
+</table>
+
+<p align="justify">Here, we are creating new sequences that will cut the linear evolution of the song.
+  </p>
+  
+<table>
+<tr>
+<th align="left", width="150">3d step</th><th align="left">
+  <kbd>ALT VERSE</kbd> & 
+  <kbd>ALT CHORUS</kbd> ...
+</th></tr>
+</table>
+
+<p align="justify">Here, we are now developping alternative sequences that will make the song more interesting.
+  </p>
+  
+<table>
+<tr>
+<th align="left", width="150">4d step</th><th align="left">
+  <kbd>INTRO</kbd> & 
+  <kbd>OUTRO</kbd>
+</th></tr>
+</table>
+
+<p align="justify">Finally, we are now creating the beginning and the end of the song parts.
+  </p>
+
 ---
 
 ## Creating sequences/songs
