@@ -75,7 +75,8 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ## Extras
 
-- **Keyboard Shortcuts Sheet** [Here](SHORTCUTS.md)
+- **Keyboard Shortcuts Sheet:** [Here](SHORTCUTS.md)
+- **Sequencing song techniques:** [Here](SEQUENCER.md)
 
 ---
 
